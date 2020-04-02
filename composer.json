@@ -11,6 +11,5 @@
         "psr-4": {
             "Interop\\Lenient\\Transaction\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
